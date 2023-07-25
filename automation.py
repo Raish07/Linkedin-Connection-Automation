@@ -26,7 +26,7 @@ password = driver.find_element(By.XPATH, "//input[@name='session_password']")
 
 # Enter the username and password
 username.send_keys('gbvq3aqxw@wuuvo.com')
-password.send_keys('Livethelife!07')
+password.send_keys('')
 
 # Pause for 2 seconds
 time.sleep(2)
